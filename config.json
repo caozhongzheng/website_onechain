@@ -1,0 +1,20 @@
+{
+	"servicesUrl": "grpc://139.224.0.105:8054",
+	"peer": "grpc://139.224.0.105:8051",
+	"eventPeer": "grpc://139.224.0.105:8053",
+	"store": "./keyValStore",
+	"userName": "one_chain_admin",
+	"chaincodeID": "758884f57a931bbe15cd1f803c15d016cf3cc877eea4377a09b8ae9a0b7a7a4eb75527471323104823bfb0ba169f49ced2658354e2d8c64c743e5e102e34b4bd",
+	"fee":1,
+	"feeOther":0.01,
+	"eachPage":5,
+	"args": {
+		"InitAmount": 100000000,
+		"Time": 0,
+		"TransferCost": 10,
+		"DeployLotteryCost": 1,
+		"ModifyLotteryCost": 1,
+		"userHash": "a0ac9f5463fda51e9fdda562f25bfba707601922f81882fea9fcae56"
+	},
+	"decode":"peersafe2017"
+}
